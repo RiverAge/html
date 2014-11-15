@@ -1,0 +1,37 @@
+body {
+    font-size: 14px;
+    line-height: 1.8;
+}
+    
+#demo {
+    width: 500px;
+    margin: 30px auto;
+    padding: 20px 30px;
+    position: relative;
+    background-color: #fff;
+    border-radius: 10px;
+    border: 1px solid #6CF;
+    box-shadow:  0 0 0 10px rgba(0, 0, 0, .2);
+    
+}
+
+#demo h2 {
+    color: #03F;
+}
+
+#demo .tooltip {
+     color: #03F;
+    cursor: help;
+}
+
+.tooltip-box {
+    padding: 10px 20px;
+    display: block;
+    background: #fff;
+    line-height: 1.6;
+    border: 1px solid #6CF;
+    color: #000;
+    border-radius: 5px;
+    font-size: 12px;
+    
+}
